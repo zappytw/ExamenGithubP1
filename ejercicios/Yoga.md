@@ -1,3 +1,4 @@
 # Ejercicio Yoga
 ## Descripcion
+## Beneficios
 
