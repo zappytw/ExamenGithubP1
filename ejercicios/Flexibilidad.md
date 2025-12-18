@@ -1,2 +1,4 @@
 # Ejercicio Flexibilidad
 ## Descripcion
+## Beneficios
+
