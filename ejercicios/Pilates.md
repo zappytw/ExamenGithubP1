@@ -1,2 +1,3 @@
 # Ejercicio Pilates
 ## Descripcion
+## Beneficios
