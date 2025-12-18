@@ -1,2 +1,3 @@
 # Ejercicio Natacion
 ## Descripcion
+## Beneficios
